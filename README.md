@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Nguyen Mạnh Hiền
+- 👋 Hi, I’m Nguyen Manh Hien
 - 👀 I’m interested in Science and Programming
 - 🌱 I’m graduated Java boot camp course at CodeGym Jsc Viet Nam
 - 🌱 I’m still learning programming 
